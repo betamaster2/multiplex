@@ -1,0 +1,23 @@
+{
+	"name": "Multiplex",
+	"date": "2018.03.19",
+	"version": "1.0.0",
+	"description": "Multiplex - Бесплатный просмотр онлайн кинотеатров",
+	"author": {
+		"name": "BetaMaster"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/betamaster2/multiplex/multiplex.git"
+	},
+	"options": [],
+	"config": {
+		"type": "app",
+		"category": "apps",
+		"name": "OTT-Player",
+		"legacy": true,
+		"description": "Multiplex - Бесплатный просмотр онлайн кинотеатров",
+		"backgroundColor": "#00C8DA",
+		"icons": "icons"
+	}
+}
