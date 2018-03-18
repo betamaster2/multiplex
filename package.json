@@ -2,7 +2,7 @@
 	"name": "Multiplex",
 	"date": "2018.03.19",
 	"version": "1.0.0",
-	"description": "Multiplex - Бесплатные онлайн кинотеатры",
+	"description": "Multiplex - Бесплатный кинотеатр",
 	"author": {
 		"name": "BetaMaster"
 	},
@@ -16,7 +16,7 @@
 		"category": "apps",
 		"name": "OTT-Player",
 		"legacy": true,
-		"description": "Multiplex - Бесплатные онлайн кинотеатры",
+		"description": "Multiplex - Бесплатный кинотеатр",
 		"backgroundColor": "#00C8DA",
 		"icons": "icons"
 	}
